@@ -3,7 +3,8 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-!**/src/main/resources/application-prod.yml
+/src/main/resources/application-prod.yml
+/Users/xuyuanfeng/SMS/SMS_Middle/src/main/resources/application-prod.yml
 
 ### STS ###
 .apt_generated
