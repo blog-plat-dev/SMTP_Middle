@@ -2,8 +2,8 @@
 邮件中台代码
  **简要描述：**
 
-- 中台提供邮件接口能力，方便分布式🧍‍♂️各个系统调用。如何使用？
-**git clone https://github.com/blog-plat-dev/SMTP_Middle.git**
+- 中台提供邮件接口能力，方便分布式🧍‍♂️各个系统调用，节约开发成本，统一管理监控。如何使用？
+- git clone https://github.com/blog-plat-dev/SMTP_Middle.git
 
 
 **请求URL：** 
@@ -24,7 +24,7 @@
 |sendTo |是|arrary|发送给谁|
 |sendFrom |是|string|发送方|
 
-
+**请求例子：**
 ```
 {
 "appId":"123",

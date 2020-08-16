@@ -34,7 +34,7 @@ spring:
     joda-date-time-format: "yyyy-MM-dd HH:mm:ss"
     #配置开发环境与生产环境的数据库
   profiles:
-    active: dev
+    active: prod
   # 文件上传
   servlet:
     multipart:
